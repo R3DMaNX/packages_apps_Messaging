@@ -15,7 +15,7 @@
     limitations under the License.
 -->
 <resources>
-    <color name="havoc_accent">#1a73e8</color>
+    <color name="accent">#2a56c6</color>
     <color name="button_text">#000000</color>
 
     <color name="navigation_bar_bg">@android:color/white</color>
